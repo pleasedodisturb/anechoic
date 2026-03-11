@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Editor files
+.idea/
+*.swp
+*.swo
+
+# AI editor configs
+.cursorrules
+.claude/
